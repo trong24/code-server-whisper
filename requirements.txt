@@ -1,0 +1,6 @@
+
+openai-whisper
+ffmpeg-python
+
+openai-whisper
+ffmpeg-python
